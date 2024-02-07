@@ -1,0 +1,22 @@
+{
+  "apple": 0,
+  "banana": 1,
+  "cake": 2,
+  "candy": 3,
+  "carrot": 4,
+  "cookie": 5,
+  "doughnut": 6,
+  "grape": 7,
+  "hot dog": 8,
+  "ice cream": 9,
+  "juice": 10,
+  "muffin": 11,
+  "orange": 12,
+  "pineapple": 13,
+  "popcorn": 14,
+  "pretzel": 15,
+  "salad": 16,
+  "strawberry": 17,
+  "waffle": 18,
+  "watermelon": 19
+}
